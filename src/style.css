@@ -7,6 +7,25 @@ body {
   align-items: center;
 }
 
-h1 {
+h1,
+p {
   color: white;
+}
+
+hr {
+  margin: 20px 0;
+}
+
+.jumbotron {
+  border: 1px solid lightgray;
+  border-radius: 20px;
+  padding: 50px;
+}
+
+button {
+  border-radius: 15px;
+  border: none;
+  background-color: blue;
+  color: white;
+  padding: 10px;
 }
