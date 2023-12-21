@@ -19,7 +19,7 @@ export default {
         <hr>
         <p>{{subtitle}}</p>
         <p>
-            <button href="google.com">Ora vai su google &#128150</button>
+            <button><a href="http://www.google.com/">Ora vai su google &#128150</a></button>
         </p>
         </div>
     </div>
